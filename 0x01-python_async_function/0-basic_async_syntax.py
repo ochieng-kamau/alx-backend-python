@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-''' Description: asynchronous coroutine wait_random taking in an integer argument
-                 (max_delay) that waits for a random delay between 0 and max_delay
-                 seconds and finally returns it
+''' Description: asynchronous coroutine wait_random taking in an argument
+                 (max_delay) that waits for a random delay between 0 and 
+                 max_delay seconds and finally returns it
     Arguments: max_delay: int = 10
 '''
 
